@@ -63,4 +63,3 @@ npm run ios
 - **Ebeveyn & Çocuk Maskot Giriş Ekranı**
 - **Eğitim:** Çocuklara düzenli idrara çıkmayı anlatan bilgi kartları.
 - **Takip:** "Uyanık" ve "Uykuda" durumlarının basit on-off sistemli tablolar yardımıyla cihaz hafızasında takibi.
-- **Oyunlar:** (İleride eklenebilecek mini oyun arayüzleri)
