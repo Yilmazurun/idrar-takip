@@ -4,7 +4,11 @@
 
 ## 📺 Tanıtım Videosu
 
-[YouTube Tanıtım Videosunu İzlemek İçin Tıklayın](YOUTUBE_LINKI_BURAYA_GELECEK)
+[YouTube Tanıtım Videosunu İzlemek İçin Tıklayın](https://youtube.com/shorts/zFhJcHc1dyo?si=kg3tyj3hMKG9RX00)
+
+## APK Almak İçin
+
+[APK almak için tıklayın(https://drive.google.com/file/d/1L_fCJa6bJ7OxmL1utlM2aXSIOLQsfl-b/view?usp=sharing)]
 
 ---
 
